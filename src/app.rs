@@ -20,7 +20,7 @@ impl Default for App {
     fn default() -> Self {
         Self {
             label: "Hello World!".to_owned(),
-            value: 2.7,
+            value: 2.8,
         }
     }
 }
